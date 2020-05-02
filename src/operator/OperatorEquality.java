@@ -12,6 +12,6 @@ public class OperatorEquality {
         System.out.println(5>6);  //false
         System.out.println(5<6);  //true
         System.out.println(i!=5);  //false
-        System.out.println(j!=5);  //true
+        System.Operout.println(j!=5);  //true
     }
 }
