@@ -1,9 +1,9 @@
 package percabangan;
 
-public class Swtich {
+public class Switch2 {
     public static void main(String[] args) {
-        char nilai='D';
-        switch(nilai){
+        char nilai = 'D';
+        switch (nilai) {
             case 'A':
                 System.out.println("Staf    : \"Terimakasih Bos\"");
                 System.out.println("Boss    : \"Samasama\"");
@@ -27,3 +27,4 @@ public class Swtich {
         }
     }
 }
+
